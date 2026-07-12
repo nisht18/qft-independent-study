@@ -7,7 +7,6 @@ This repository contains my independent directed study notes, curriculum, and ma
 ## 📚 Core Curriculum & Textbooks
 The trajectory of this study synthesizes pedagogical introductions with advanced methods in statistical mechanics:
 1. **Primary Text:** *Methods of Quantum Field Theory in Statistical Physics* by A.A. Abrikosov, L.P. Gorkov, and I.E. Dzyaloshinski.
-2. **Supplementary Text:** *Quantum Field Theory for the Gifted Amateur* by Tom Lancaster and Stephen J. Blundell.
 
 # 📂 Repository Structure
 
