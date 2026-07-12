@@ -11,7 +11,7 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 
 # 📂 Repository Structure
 
-* 📄 [QFT_Syllabus.pdf](QFT_Syllabus.pdf): The formalized, week-by-week graduate reading course syllabus, benchmarks, and learning outcomes.
+* 📄 [QFT_Syllabus](QFT_Syllabus.pdf): The formalized, week-by-week graduate reading course syllabus, benchmarks, and learning outcomes.
 
 ## Notes (+ Extraneous/Sporadic Reviews)
 * [Special Relativity: A Concise Review](Special_Relativity.pdf)
