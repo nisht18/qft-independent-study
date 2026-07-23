@@ -20,7 +20,7 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 ### Chapter I
 
 * **[§ 1.1: Elementary Excitations. The Energy Spectrum & Properties of Liquid He⁴ at Low Temperatures](1.1_AGD_TeX.pdf)**
-* **§ 1.2 (coming soon**
+* **§ 1.2 (coming soon)**
 
 
 ## 🎯 Core Objectives
