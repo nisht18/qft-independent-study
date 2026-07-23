@@ -15,9 +15,13 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 ## Notes (+ Extraneous/Sporadic Reviews)
 * **[Special Relativity: A Concise Review](Special_Relativity.pdf)**
 
-## Notes (Abrikosov, Gorkov, & Dyalosjinski)
-Chapter I 
-* **[&sect; 1.1
+## Notes (Abrikosov, Gorkov, & Dyaloshinski)
+
+### Chapter I
+
+* **[§ 1.1: Elementary Excitations. The Energy Spectrum & Properties of Liquid $\text{He}^4$ at Low Temperatures](1.1_AGD_TeX.pdf)**
+* **§ 1.2 (coming soon**
+
 
 ## 🎯 Core Objectives
 * **Formalize Derivations:** Reconstruct complex textbook derivations step-by-step to bridge conceptual gaps.
