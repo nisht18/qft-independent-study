@@ -16,7 +16,8 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 * **[Special Relativity: A Concise Review](Special_Relativity.pdf)**
 
 ## Notes (Abrikosov, Gorkov, & Dyalosjinski)
-*coming soon
+Chapter I 
+* **[&sect; 1.1
 
 ## 🎯 Core Objectives
 * **Formalize Derivations:** Reconstruct complex textbook derivations step-by-step to bridge conceptual gaps.
