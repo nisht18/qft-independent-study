@@ -21,7 +21,8 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 
 * **[§ 1.1: Elementary Excitations. The Energy Spectrum & Properties of Liquid He⁴ at Low Temperatures](1.1_AGD_TeX.pdf)**
 * **[§ 1.2: The Fermi Liquid](1.2_AGD_TeX.pdf)**
-* § 1.3: (coming soon)
+* **[§ 1.3: Second Quantisation](1.3_AGD_TeX.pdf)**
+* § 1.4 (coming soon)
 
 
 ## 🎯 Core Objectives
