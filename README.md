@@ -24,6 +24,7 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 
 ### Chapter 2
 * **[§2.1: The Interaction Representation](2.1_AGD_TeX.pdf)**
+* more to come :)
 
 
 ## 🎯 Core Objectives
