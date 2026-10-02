@@ -23,7 +23,7 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 * **[§ 1.5: The Dilute Fermi Gas](1.5_AGD_TeX.pdf)**
 
 ### Chapter 2
-* coming soon
+* **[§2.1: The Interaction Representation](2.1_AGD_TeX.pdf)**
 
 
 ## 🎯 Core Objectives
