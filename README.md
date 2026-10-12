@@ -1,6 +1,6 @@
 # qft-directed-study
 
-Notes, syllabus, and study materials for an independent directed study in Quantum Field Theory.
+Notes and study materials for an independent directed study in Quantum Field Theory.
 
 This repository contains my independent directed study notes, curriculum, and materials on Quantum Field Theory (QFT).
 
