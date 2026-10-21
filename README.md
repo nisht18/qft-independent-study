@@ -22,7 +22,7 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 * **[§ 1.4: The Dilute Bose Gas](1.4_AGD_TeX.pdf)**
 * **[§ 1.5: The Dilute Fermi Gas](1.5_AGD_TeX.pdf)**
 
-### Chapter 2
+### Chapter II
 * **[§2.1: The Interaction Representation](2.1_AGD_TeX.pdf)**
 * **[§2.2: The Green's Function](2.2_AGD_TeX.pdf)**
 * more to come :)
