@@ -25,6 +25,7 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 ### Chapter II
 * **[§2.1: The Interaction Representation](2.1_AGD_TeX.pdf)**
 * **[§2.2: The Green's Function](2.2_AGD_TeX.pdf)**
+* **[§2.3: Analytic Properties (of Green's Function)](2.3_AGD_TeX.pdf)**
 * more to come :)
 
 
